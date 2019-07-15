@@ -1,5 +1,9 @@
 feature 1 file
 
-
+<<<<<<< HEAD
 Author1
+=======
+Author 2
+>>>>>>> feature2 updated by author2
 
+146dec9062ae4f789114714042bfaea2
